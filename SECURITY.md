@@ -2,20 +2,17 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Use this page to see if versions have had security update(s) or not.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
+| 1.1     | :white_check_mark: |
+| 1.0     | :x:                |
+| 0.3.2   | :x:                |
+| 0.3.1   | :x:                |
+| 0.3     | :x:                |
+| 0.2     | Private Version    |
+| 0.1     | :white_check_mark: |
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+To report a vulnerability, either email me (OtisdubYT) at otistatewhitaker@icloud.com or DM me (otisdub_yt) on Discord.
